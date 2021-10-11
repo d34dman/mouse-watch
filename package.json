@@ -1,6 +1,6 @@
 {
   "name": "mouse-watch",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Mouse watch: Chrome Extension. Count how many moves make your mouse",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
