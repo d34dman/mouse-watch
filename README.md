@@ -1,11 +1,9 @@
-# Cursor traveler
-![Logo Cursor](https://lh3.googleusercontent.com/6NRsSjT7fgBua1OT8cLIUKl3ISykY8AhSINasa5pbvwpomtekbI_UA6jA4lMf2Nn69F-Syu7=w640-h400-e365)
+# Mouse Watch
 
-
-[Chrome extension](http://bit.ly/readmeGithub) which measure the distance your mouse travels.
+Chrome extension which measure the distance your mouse travels.
 
 ### Why?
-Made for fun to learn RxJS
+Keep a close eye on that mouse, while you mind your own business.
 
 
 ### Development
@@ -19,3 +17,6 @@ Made for fun to learn RxJS
 `npm run test:unit` to run unit tests
   
 
+## Credits
+
+- This project is a fork of [Dmytro Filipenko](https://github.com/d34dman/mouse-watch/commits?author=dmfilipenko)'s project called [Cursor Traveler](https://github.com/dmfilipenko/cursor-traveler).

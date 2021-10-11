@@ -1,18 +1,18 @@
 {
-  "name": "cursor-traveler",
+  "name": "mouse-watch",
   "version": "1.0.0",
-  "description": "Cursor Traveler: Chrome Extension. Count how many moves make your mouse",
+  "description": "Mouse watch: Chrome Extension. Count how many moves make your mouse",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
     "build": "webpack --config webpack/webpack.prod.js",
-    "zip": "zip -r -X pedometer.zip dist",
+    "zip": "zip -r -X mousewatcher.zip dist",
     "build:zip": "npm run build && npm run zip",
     "test:unit": "jest -c jest.config.unit.js"
   },
-  "author": "Dmytro Filipenko",
+  "author": "Shibin Das",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmfilipenko/cursor-traveler"
+    "url": "https://github.com/d34dman/mouse-watch"
   },
   "dependencies": {
     "ramda": "^0.25.0",
